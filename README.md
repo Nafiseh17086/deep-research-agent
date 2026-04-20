@@ -98,7 +98,7 @@ See [`docs/architecture.md`](docs/architecture.md) for a detailed breakdown.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/deep-research-agent.git
+git clone https://github.com/Nafiseh17086/deep-research-agent.git
 cd deep-research-agent
 
 # Create virtual environment
@@ -235,7 +235,7 @@ MIT License — see [LICENSE](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
+**Nafiseh Mollaei**
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
