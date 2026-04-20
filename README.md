@@ -238,7 +238,7 @@ MIT License — see [LICENSE](LICENSE).
 **Nafiseh Mollaei**
 - GitHub: [@Nafiseh17086](https://github.com/Nafiseh17086)
 - LinkedIn: [linkedin.com/in/Nafiseh(cati)Mollaei]([[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/nafiseh-cati-mollaei-ph-d-830b88b6/)](https://www.linkedin.com/in/nafiseh-cati-mollaei-ph-d-830b88b6/))
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+
 
 ---
 
